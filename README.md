@@ -11,3 +11,9 @@ You simply have to do 2 things in your `.travis.yml` file:
 
 You can take a look at the [.travis.yml file](https://github.com/SonarSource/sq-com_example_java-maven-travis/blob/master/.travis.yml) 
 of this project to see it in practice.
+
+### License
+
+Copyright 2008-2016 SonarSource.
+
+Licensed under the [GNU Lesser General Public License, Version 3.0](http://www.gnu.org/licenses/lgpl.txt)
