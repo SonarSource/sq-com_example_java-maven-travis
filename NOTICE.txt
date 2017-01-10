@@ -1,0 +1,6 @@
+Java Maven-based project analyzed on SonarQube.com using Travis
+Copyright (C) 2016-2017 SonarSource SA
+mailto:info AT sonarsource DOT com
+
+This product includes software developed at
+SonarSource (http://www.sonarsource.com/).
