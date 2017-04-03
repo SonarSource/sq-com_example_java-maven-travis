@@ -10,4 +10,4 @@ You simply have to do 2 things in your `.travis.yml` file:
 * Run `mvn sonar:sonar` at some point of time in the `script` section
 
 You can take a look at the [.travis.yml file](https://github.com/SonarSource/sq-com_example_java-maven-travis/blob/master/.travis.yml) 
-of this project to see it in practice.
+of this project to see it in practice. 
