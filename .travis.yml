@@ -20,5 +20,9 @@ cache:
     - '$HOME/.m2/repository'
     - '$HOME/.sonar/cache'
 
+# Don't copy the following part if your usnig this project as a starting point of yours
 notifications:
   email: false
+  webhooks:
+    - secure: "YnouVsvmF9gDFMT9s8MQsHe5ARaO78SvNeU+MzGKB+l7we7Xge5Zmi6J1KOuOW7zoKkb/wCnUvs+wu9qr4K0VgmWb2wBOpO2c5p85GrSYjPKGwfeZHSmGUpHUoNeDNa32StbTn7oOqtisTbcCWAM3fCPK/HW2l6Mh6eLSsqrlXwCYek2NWWfNeWX0tw22ctMGX6c2I200mGtU3SxPLvzg6MC9AbJ5/VnMkr0tzJnJdQWFGP6Iv6kNBb982tijbdBiriUX6964IPC4XSboK/KFRoHEfxaQuB8rcc64ar4Yr0UIB7Cz2DY4hKi6XaC5RT0O10rfFbCf6UInpzsz2CC4ZMU2Tpnpew/Y7VxhDBXLdq3pkvZS8UXj9J5ivaTJeCIidfoxw7NF8ctPtgIvUI5SoC1V7bjMPTvTTFz7vqtvCUZbAecQgM88MKGyYPD2g4HxzGL7vCGfPSOCMsxySemBkBElqPvDRVLrDNNPJNEkUZ/yQxaFCZpITPD787MyKjeI9NlkG3htZ+i8t2BYmQj28JzoADY+wsdufK8WlkWANISfFyEzyo+JlOoXGX/gfHWpWhaWn3klIDm8LED3FM4/wNRT6yg8BZ1BEQ6D6RSG5SrhYwJPRr6bFzh7MA3+mkO7GW5SVZNVX2Q0qmigmKd6cJBGD3/V0r74LtwRH+sKxI="
+  on_start: always
