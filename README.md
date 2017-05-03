@@ -11,3 +11,6 @@ You simply have to do 2 things in your `.travis.yml` file:
 
 You can take a look at the [.travis.yml file](https://github.com/SonarSource/sq-com_example_java-maven-travis/blob/master/.travis.yml) 
 of this project to see it in practice.
+
+
+// Test Change5 for Jenkins
