@@ -1,4 +1,5 @@
 package foo;
+// changes for Jenkin
 
 import org.junit.Test;
 import static org.junit.Assert.*;
