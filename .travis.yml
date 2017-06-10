@@ -4,7 +4,7 @@ install: true
 
 addons:
   sonarqube:
-    organization: "geminos"
+    organization: "opensource"
     token:
       secure: "$SONAR_TOKEN"
 
