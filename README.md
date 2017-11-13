@@ -2,7 +2,7 @@
 
 [![Build status](https://travis-ci.org/SonarSource/sq-com_example_java-maven-travis.svg?branch=master)](https://travis-ci.org/SonarSource/sq-com_example_java-maven-travis) [![Quality Gate](https://sonarcloud.io/api/badges/gate?key=com.sonarqube.examples:java-maven-travis-project)](https://sonarcloud.io/dashboard/index/com.sonarqube.examples:java-maven-travis-project)
 
-#### This project is analysed on [SonarCloud](https://sonarcloud.io)!
+#### This project is analysed on [SonarCloud](https://sonarcloud.io/dashboard/index/com.sonarqube.examples:java-maven-travis-project)!
 
 It is very easy to run an analysis on a Maven-based project and push it to SonarCloud.
 You simply have to do 2 things in your `.travis.yml` file:
