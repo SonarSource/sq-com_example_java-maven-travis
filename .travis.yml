@@ -20,7 +20,7 @@ cache:
     - '$HOME/.m2/repository'
     - '$HOME/.sonar/cache'
 
-# Don't copy the following part if your usnig this project as a starting point of yours
+# Don't copy the following part if you're using this project as a starting point of yours
 notifications:
   email: false
   webhooks:
