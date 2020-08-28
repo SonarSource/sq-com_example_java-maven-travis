@@ -17,6 +17,9 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
+        <sonar.projectKey>manual-project</sonar.projectKey>
+        <sonar.organization>paid-org</sonar.organization>
+        <sonar.host.url>https://greg.eu.ngrok.io/</sonar.host.url>
     </properties>
 
     <dependencies>
