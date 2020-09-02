@@ -1,5 +1,6 @@
 sudo: false
 install: true
+dist: trusty
 
 addons:
   sonarcloud:
