@@ -4,7 +4,7 @@
     <groupId>com.sonarqube.examples</groupId>
     <artifactId>java-maven-travis-project</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Java Maven-based project analyzed on SonarCloud using Travis</name>
+    <name>Java Maven-based project analyzed on SonarQube Cloud using Travis</name>
     <url>https://github.com/SonarSource/sq-com_example_java-maven-travis</url>
 
     <scm>
